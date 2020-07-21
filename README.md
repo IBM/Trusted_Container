@@ -1,6 +1,9 @@
 # Trusted_Container
 Provide a trusted platform for with Image Encryption capabilities with secure key delivery and management based in root of trust and host attestation, which will be a foundation for a NIST reference architecture.
 
+# Get Involved!
+
+We are using issues to organize threads of conversation since the effort takes place across a multitude of technologies. Create an issue with some of your thoughts/ideas for collaboration or if you have any questions/topics to discuss!
 
 # Related links to code used in architecture
 
